@@ -2,8 +2,8 @@
   <configuration default="false" name="Dockerfile" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
     <deployment type="dockerfile">
       <settings>
-        <option name="imageTag" value="ymajoros/wipp:latest" />
-        <option name="containerName" value="wipp" />
+        <option name="imageTag" value="ymajoros/miss:latest" />
+        <option name="containerName" value="miss" />
         <option name="portBindings">
           <list>
             <DockerPortBindingImpl>
